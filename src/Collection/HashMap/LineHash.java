@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2020 All Rights Reserved.
  */
-package Collection;
+package Collection.HashMap;
 
 /**
  * 开放地址法 -- 线性探测
